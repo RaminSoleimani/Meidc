@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Medic</string>
+    <string name="Pill_Reminder">Pill Reminder</string>
+    <string name="Schedule_your_medicatin">Schedule your medication</string>
+    <string name="Appointment_maket">Appointment Scheduling</string>
+    <string name="Make_Appointment">Make your doctor appointment</string>
+    <string name="Panic_Button">Panic Button</string>
+    <string name="Call_emergency">Call emergency</string>
+    <string name="Tracker">Tracker</string>
+    <string name="Send_location">Send your location</string>
+    <string name="pill_name">Enter name of the medicaton</string>
+    <string name="hour_minute">Hour:Minute</string>
+    <string name="start_time">Set initial time</string>
+    <string name="Set_duration">Set Repeat duration</string>
+    <string name="Add">Add</string>
+    <string name="pick_time">Pick repeat duration</string>
+    <string name="title_activity_tracker">Map</string>
+    <string name="show_location">Show Location</string>
+    <string name="login_caregiver">Login Caregiver</string>
+    <string name="login_user">Login User</string>
+    <string name="login_caregiver2">login_caregiver2</string>
+    <string name="select">Select</string>
+    <string name="select_date">Select Date</string>
+</resources>
